@@ -50,8 +50,9 @@ This project requires the following Python libraries:
 - Matplotlib
 
 You can install these dependencies using pip:
+
       ```bash
-   pip install numpy pandas scikit-learn matplotlib
+      pip install numpy pandas scikit-learn matplotlib
 
 
 
