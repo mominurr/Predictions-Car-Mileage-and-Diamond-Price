@@ -50,16 +50,17 @@ This project requires the following Python libraries:
 - Matplotlib
 
 You can install these dependencies using pip:
+      ```bash
+   pip install numpy pandas scikit-learn matplotlib
 
-```bash
-pip install numpy pandas scikit-learn matplotlib
 
 
 ## Usage
 
 To use this project, follow these steps:
 
-1. Clone the project repository to your local machine:
+1. Ensure you have Python installed on your machine.
+2. Clone the project repository to your local machine:
 
    ```bash
    git clone https://github.com/mominurr/Predictions-Car-Mileage-and-Diamond-Price.git
