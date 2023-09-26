@@ -38,7 +38,7 @@ The `diamond_price_predictor` function predicts diamond prices based on two inpu
 
 ## Dataset
 
-The dataset used for this project is the [Diamond Price Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0231EN-SkillsNetwork/datasets/diamonds.csv) and [Car Mileage MPG](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0231EN-SkillsNetwork/datasets/mpg.csv), which contains information about diamonds and car prices.
+The dataset used for this project is the [Diamond Price Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0231EN-SkillsNetwork/datasets/diamonds.csv) and [Car Mileage MPG](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0231EN-SkillsNetwork/datasets/mpg.csv), which contains information about diamonds and car.
 
 ## Dependencies
 
