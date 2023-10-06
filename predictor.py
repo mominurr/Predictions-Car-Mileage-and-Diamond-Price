@@ -134,7 +134,7 @@ if __name__ == "__main__":
     # depth is the float value
     #------------------------------------------------------------------
     print("####### Welcome to the car mileage predictor and diamond price predictor #######")
-
+    print("Example of input values:\nhorsepower=198, weight=3850\ncaret=0.28, depth=55.5")
     while True:
         print("\nChoose any one of the following options:")
         print("1. Car Mileage Predictor")
