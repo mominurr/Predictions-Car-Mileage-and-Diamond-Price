@@ -40,7 +40,7 @@ The `diamond_price_predictor` function predicts diamond prices based on two inpu
 
 To see a demonstration of our car mileage (MPG) and diamond price predictions in action, please watch the following video:
 
-[![Demo Video](https://i9.ytimg.com/vi_webp/Mp3yaym5cF4/sddefault.webp?v=65204b5f&sqp=CKCWgakG&rs=AOn4CLD3j-hIva98bQK5S1O4asioqGhw4g)](https://youtu.be/Mp3yaym5cF4)
+[![Demo Video](https://youtu.be/Mp3yaym5cF4)](https://youtu.be/Mp3yaym5cF4)
 
 In this video, we provide a step-by-step walkthrough of how to use our Python functions for predicting car mileage and diamond prices, as well as an overview of the project's objectives and results.
 
