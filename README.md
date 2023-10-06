@@ -36,6 +36,16 @@ The `diamond_price_predictor` function predicts diamond prices based on two inpu
 - Average R-squared (R2) score for the prediction.
 - Predicted price of the diamond based on the input `carat` and `depth`.
 
+## Video Presentation
+
+To see a demonstration of our car mileage (MPG) and diamond price predictions in action, please watch the following video:
+
+[Demo Video](https://youtu.be/Mp3yaym5cF4)
+
+In this video, we provide a step-by-step walkthrough of how to use our Python functions for predicting car mileage and diamond prices, as well as an overview of the project's objectives and results.
+
+Feel free to watch the video to get a better understanding of our predictions.
+
 ## Dataset
 
 The dataset used for this project is the [Diamond Price Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0231EN-SkillsNetwork/datasets/diamonds.csv) and [Car Mileage MPG](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0231EN-SkillsNetwork/datasets/mpg.csv), which contains information about diamonds and car.
@@ -53,7 +63,6 @@ You can install these dependencies using pip:
 
       ```bash
       pip install numpy pandas scikit-learn matplotlib
-
 
 
 ## Usage
