@@ -8,7 +8,7 @@ This project focuses on predicting two key aspects:
 
 **Diamond Price Prediction:** Our second model predicts the price of diamonds using characteristics like carat and depth. This prediction empowers both jewelers and buyers to make informed choices regarding diamond purchases.
 
-We provide Python functions for both predictions, along with evaluation metrics like Mean Squared Error (MSE), R-squared (R2) scores, and the predicted values themselves.
+I provide Python functions for both predictions, along with evaluation metrics like Mean Squared Error (MSE), R-squared (R2) scores, and the predicted values themselves.
 
 
 
