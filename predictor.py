@@ -133,9 +133,10 @@ if __name__ == "__main__":
     # caret is the float value
     # depth is the float value
     #------------------------------------------------------------------
+    print("####### Welcome to the car mileage predictor and diamond price predictor #######")
 
     while True:
-        print("Choose any one of the following options:")
+        print("\nChoose any one of the following options:")
         print("1. Car Mileage Predictor")
         print("2. Diamond Price Predictor")
         print("3. Exit")
